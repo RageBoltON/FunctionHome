@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b6fb05a4-121a-4f52-a175-8ddcb4bd57fa}</ProjectGuid>
-    <RootNamespace>FunctionHome</RootNamespace>
+    <ProjectGuid>{a27ab6d2-d9ea-44ea-959f-b72aa700e8c4}</ProjectGuid>
+    <RootNamespace>ArraysHome</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
